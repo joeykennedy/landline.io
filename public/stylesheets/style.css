@@ -78,6 +78,7 @@ p {
   color: #477288; }
 
 .site-footer {
+  margin-bottom: 0px;
   padding: 40px 40px 20px;
   background-color: #477288;
   box-shadow: inset 0 1px 0 #345262; }
